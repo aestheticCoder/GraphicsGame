@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e68f2aff-0a73-46c7-be91-745cefa97557" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aH4c7uPE2PjYhWj9lqwc6D7Q0z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../03_simple-texture" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CS Stuff\CS412\amazed_FinalProj\pa4_template\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CS Stuff\CS412\amazed_FinalProj\pa4_template\data" />
+      <recent name="C:\CS Stuff\CS412\amazed_FinalProj\pa4_template\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e68f2aff-0a73-46c7-be91-745cefa97557" name="Default Changelist" comment="" />
+      <created>1586379270395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586379270395</updated>
+      <workItem from="1586379291736" duration="4314000" />
+      <workItem from="1586466943050" duration="112000" />
+      <workItem from="1586810885434" duration="1912000" />
+      <workItem from="1586880102537" duration="40000" />
+      <workItem from="1586903432906" duration="6167000" />
+      <workItem from="1586969368298" duration="8163000" />
+      <workItem from="1588631770539" duration="19000" />
+      <workItem from="1589232165073" duration="7981000" />
+      <workItem from="1589315801415" duration="8665000" />
+      <workItem from="1589401358755" duration="223000" />
+      <workItem from="1589406094242" duration="4794000" />
+      <workItem from="1589579537402" duration="1200000" />
+      <workItem from="1589750933892" duration="17110000" />
+      <workItem from="1589843216888" duration="6268000" />
+      <workItem from="1589849904581" duration="1248000" />
+      <workItem from="1589859337351" duration="26801000" />
+      <workItem from="1598486884854" duration="1377000" />
+      <workItem from="1601393464186" duration="4444000" />
+      <workItem from="1601481107713" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1601481119073">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="533" y="284" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/-1080.0.1080.1890@0.0.1920.1050" timestamp="1601481119073" />
+  </component>
+</project>
